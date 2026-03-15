@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Luis Fabio Lima Dos Santos!
+# 👋 Olá, eu sou Luis Fabio!
 
 * 💻 Estudante de **Desenvolvimento de Sistemas**
 * 🎮 Apaixonado por **games, tecnologia e programação**
