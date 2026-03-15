@@ -32,6 +32,12 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=luisfabiols&show_icons=true&theme=dark)
+
+---
+
 ## 🎮 Interesses
 
 * Desenvolvimento de software
