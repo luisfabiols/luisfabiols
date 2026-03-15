@@ -47,9 +47,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 
 ---
 
-## 📫 Contato
+## 📫 Como me encontrar
 
-Email: **luisfabiols@hotmail.com**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-thebadge&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-thebadge&logo=gmail&logoColor=white)](mailto:luisfabio1986@gmail.com) 
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-thebadge&logo=outlook&logoColor=white)](mailto:luisfabiols@hotmail.com)
 
 ---
 
